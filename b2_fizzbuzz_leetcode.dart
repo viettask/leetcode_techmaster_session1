@@ -1,3 +1,5 @@
+https://leetcode.com/problems/fizz-buzz/
+
 class Solution {
   List<String> fizzBuzz(int n) {
     List<String> result = [];
